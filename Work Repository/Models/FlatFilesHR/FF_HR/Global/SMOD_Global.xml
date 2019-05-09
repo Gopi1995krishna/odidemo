@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SunopsisExport>
 <Admin RepositoryVersion="05.02.02.07" IsLegacyIdCompatible="false" />
-<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="+5clc/+E5Kg3o5jkdx3Rdg==" exportKeySalt="192e0f0e-192d-4a75-acde-a69e30df507e" containsCipherText="false"/>
+<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="hvNr/j/PUus0vLpcSzPqiA==" exportKeySalt="8531fec7-e58f-4d86-99cf-e0319bcb1cf8" containsCipherText="false"/>
 <Object class="com.sunopsis.dwg.dbobj.SnpSubModel">
 		<Field name="CodSmod" type="java.lang.String"><![CDATA[DEFAULT]]></Field>
 	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2019-04-23 07:44:54.0]]></Field>
 	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[ccb839c8-e103-4a99-a38a-d5359feea87a]]></Field>
 	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
-	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[7]]></Field>
+	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[12]]></Field>
 	<Field name="IMod" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
 	<Field name="ISmod" type="com.sunopsis.sql.DbInt"><![CDATA[2]]></Field>
 	<Field name="ISmodParent" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-05-09 18:28:26.0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2019-05-09 18:58:03.0]]></Field>
 	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="RevApplyPattern" type="java.lang.String">null</Field>
 	<Field name="RevPatternOrder" type="java.lang.String">null</Field>
@@ -25,7 +25,7 @@
 	<Field name="SubType" type="java.lang.String">null</Field>
 	<Field name="Name" type="java.lang.String"><![CDATA[continents]]></Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[5c29d3fc-9c77-4250-8df2-7cebed6d99b9]]></Field>
-	<Field name="Version" type="java.lang.String"><![CDATA[5727aac68a2a44b1dc8c17dd9581f59174fbce65]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[f02dd2cd5670f54098e0e322e462a15a30e53789]]></Field>
 	<Field name="Path" type="java.lang.String"><![CDATA[TAB_continents.xml]]></Field>
 </Object>
 <Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
